@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreCodeFirst", "EFCoreCodeFirst\EFCoreCodeFirst.csproj", "{6AADBD7E-E8C4-45F9-BFCD-8C7F457F25D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreCodeFirst.Infrastructure", "EFCoreCodeFirst.Infrastructure\EFCoreCodeFirst.Infrastructure.csproj", "{A1230711-A80F-47A5-B986-485A8E02E59E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AADBD7E-E8C4-45F9-BFCD-8C7F457F25D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AADBD7E-E8C4-45F9-BFCD-8C7F457F25D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AADBD7E-E8C4-45F9-BFCD-8C7F457F25D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AADBD7E-E8C4-45F9-BFCD-8C7F457F25D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1230711-A80F-47A5-B986-485A8E02E59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1230711-A80F-47A5-B986-485A8E02E59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1230711-A80F-47A5-B986-485A8E02E59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1230711-A80F-47A5-B986-485A8E02E59E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39FCC0DA-AB86-411A-BC25-5CBF62AB4A5E}
+	EndGlobalSection
+EndGlobal
